@@ -1,8 +1,8 @@
 ## Olá eu sou o Matheus Castilho, desenvolvedor RAD Studio Delphi e NodeJS!
 <div align="center">
   <a href="https://github.com/castilhodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=castilhodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castilhodev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=castilhodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castilhodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Delphi" height="35" width="35" src="https://img.icons8.com/officel/40/000000/delphi-ide.png">
